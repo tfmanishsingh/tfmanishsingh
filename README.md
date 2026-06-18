@@ -70,4 +70,4 @@ Work With Me
 
 If your business still runs on manual replies, scattered WhatsApp threads and forgotten follow-ups — we should talk.
 
-DM on Telegram → @DuneStudiosBot
+DM on Telegram → @tfsheikhh
