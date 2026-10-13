@@ -1,73 +1,47 @@
 Manish Singh
 
-Building @ Dune Studios · AI Automation Builder
+I'm a **B.Tech Computer Science student, entrepreneur, and self-taught builder** interested in using technology to solve real business problems.
 
-Building systems that run businesses while the owner sleeps.
+I enjoy building practical projects, exploring automation, and turning ideas into working digital products.
 
-What I Build
+ Studying Computer Science & Engineering
+ Building **Dune Labs** — systems designed to help med spas grow their revenue
+ Exploring AI, business automation, APIs, and CRM systems
+ Learning by building real-world projects
+ Interested in entrepreneurship, marketing, sales, and technology
 
-I run Dune Studios — a lean AI automation agency.
+---
 
-No bloated teams. No templates. Just sharp systems built fast that actually work.
+Dune Lab
 
-We take the manual, repetitive work out of running a business and replace it with automations that run 24/7 — lead follow-up, appointment systems, WhatsApp chatbots, client pipelines.
+Technology should solve problems, not create more work.
 
-Client gets a lead at 2am
-  → System replies in 60 seconds
-  → Qualifies them with 2 questions
-  → Books a call automatically
-  → Logs everything to a dashboard
-  → Owner wakes up to booked appointments
+Dune Labs helps med spas improve how they attract potential patients, convert inquiries into consultations, increase patient spending, and encourage repeat visits.
 
-That's what I build.
+Our approach focuses on four areas:
 
+- **Revenue Leak Audit** — Identify where potential revenue is being lost.
+- **Consultation Engine** — Help turn inquiries into booked consultations.
+- **Performance Increase** — Improve how clinics present treatments and packages.
+- **Lifetime Value Systems** — Encourage retention, rebooking, memberships, and patient reactivation.
 
-Stack
+We explore CRM implementation, automation, and practical systems that help businesses operate more effectively.
 
-yamlAutomation:   n8n · Make.com · Webhooks
-AI Layer:     OpenAI API · Claude API · LangChain
-Messaging:    WhatsApp Business API · Telegram Bot API
-Database:     Google Sheets · Airtable · Supabase
-Deployment:   Railway · Render · VPS
-Languages:    JavaScript · Python (basics)
+🌐 **Website:** [dunelabs.netlify.app](https://dunelabs.netlify.app/)
 
+---
 
-Projects
+My Current Focus
 
-🤖 AI Lead Follow-Up System
+- Building and growing Dune Labs.
+- Learning how software, automation, and business work together.
+- Improving my problem-solving and technical skills.
+- Turning ideas into products and systems people can actually use.
 
-Instant WhatsApp reply → AI qualification → auto call booking → Google Sheets CRM → owner notification. Built in n8n. Zero manual work after setup.
+---
 
-📅 Appointment Reminder Bot
+the goal
 
-Reads appointment sheet → sends WhatsApp reminder 24hrs before → confirmation request → reschedule flow if no reply. Cuts no-shows by 60%+.
+**Build things that work. Solve problems that matter. Keep improving.**
 
-💬 Telegram Agency Bot — @DuneStudiosBot
-
-Full menu-driven Telegram bot for Dune Studios. Services, portfolio, lead capture with inline buttons. Built with n8n + BotFather.
-
-🔄 Dead Lead Reactivation System
-
-Every Sunday — AI writes personalised follow-up messages to every lead that went cold in the last 30 days. Runs completely automatically.
-
-
-Currently
-
-
-🏗️ Building Dune Studios to $10kL/month
-📚 Mastering n8n — working through multi-agent AI workflows
-🎨 Launching AI Visuals service — Q3 2026
-🔨 Open to automation projects for real estate, clinics & e-commerce
-
-
-
-Numbers That Matter
-
-MetricWhat we deliverLead response timeUnder 60 secondsNo-show reduction60%+ with reminder flowsHours saved per client10–15 hrs/weekTools required from clientZero
-
-
-Work With Me
-
-If your business still runs on manual replies, scattered WhatsApp threads and forgotten follow-ups — we should talk.
-
-DM on Telegram → @tfsheikhh
+Thanks for stopping by! 🤝
